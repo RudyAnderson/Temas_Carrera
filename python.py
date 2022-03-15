@@ -6,3 +6,5 @@ e = int(input('Ingrese el quinto numero:'))
 
 print('El numero mayor es:', max(a, b, c, d, e))
 print('El numero menor es:', min(a, b ,c ,d ,e))
+
+print("\nFelicidades, va muy bien con su evaluación parcial. Att. Ing. Miguel")
