@@ -6,3 +6,6 @@ e = int(input('Ingrese el quinto numero:'))
 
 print('El numero mayor es:', max(a, b, c, d, e))
 print('El numero menor es:', min(a, b ,c ,d ,e))
+
+print('Rudy Anderson Díaz Díaz')
+print('1506422')
